@@ -22,9 +22,13 @@ Lo primero que hice fue comprar dos libros que nos ayudarían a cambiar la diná
 
 Para la primera retrospectiva quise utilizar dos técnicas para recoger datos, hacer un **Team radar** a nivel general y un **Satisfaction histogram** de un producto que vamos a tener que evolucionar bastante.
 
-El **Team radar** lo basé en 6 principios, los cuales no se si son los nuestros ya que nunca los hemos discutido, pero que me parecían muy interesantes y podían alinearse bastante bien con el equipo. Calidad, aprendizaje, feedback, courage, simplicidad y comunicación. [Team radar]({{ "/assets/TeamRadar.png" | absolute_url }}).
+El **Team radar** lo basé en 6 principios, los cuales no se si son los nuestros ya que nunca los hemos discutido, pero que me parecían muy interesantes y podían alinearse bastante bien con el equipo. Calidad, aprendizaje, feedback, courage, simplicidad y comunicación.
 
-Y el **Satisfaction histogram** fue muy simple, votar del 1 al 5 como de satisfecho estabas con la evolución del producto. [Satisfaction Histogram]({{ "/assets/SatisfactionHistogram.png" | absolute_url }}).
+<img src="{{ "/assets/TeamRadar.png" | absolute_url }}" alt="Team radar" style="width: 400px;"/>
+
+Y el **Satisfaction histogram** fue muy simple, votar del 1 al 5 como de satisfecho estabas con la evolución del producto.
+
+<img src="{{ "/assets/SatisfactionHistogram.png" | absolute_url }}" alt="Satisfaction Histogram" style="width: 400px;"/>
 
 Surgieron muy buenas conversaciones analizando los datos y que nos serán de mucha utilidad en el futuro para mejorar. Acordamos también que en un tiempo volveremos a recoger los mismos datos para ver como hemos evolucionado.
 
