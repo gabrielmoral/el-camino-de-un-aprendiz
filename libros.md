@@ -8,9 +8,13 @@ status: publish
 categories: []
 tags: []
 ---
-2017 Q4.
+2018 Q1.
+*   **To Kill a Mockingbird**, Harper Lee.
+*   **Clean Architecture**, Robert C. Martin.
 
-*   <span id="productTitle" class="a-size-large">**Peopleware: Productive Projects and Teams**, Tom DeMarco, Timothy Lister.</span>
+2017 Q4.
+*   **Understanding the Four Rules of Simple Design**, Corey Haines.
+*   **Peopleware: Productive Projects and Teams**, Tom DeMarco, Timothy Lister.
 *   **Get Programming with F#**, Isaac Abraham.
 *   **Sapiens: A Brief History of Humankind**, Yuval Noah Harari.
 
@@ -33,7 +37,7 @@ tags: []
 
 Club de lectura de [Aprendices](https://plus.google.com/communities/114859785439968913587):
 
-*   <span id="productTitle" class="a-size-large">**Peopleware: Productive Projects and Teams**, Tom DeMarco, Timothy Lister.</span>
+*   **Peopleware: Productive Projects and Teams**, Tom DeMarco, Timothy Lister.
 *   **Extreme Programming Explained: Embracing Change**, Kent Beck.
 *   **The Nature of Software Development**, Ron Jeffries.
 *   **The senior software engineer**, David Copeland.
@@ -45,9 +49,9 @@ Club de lectura de [Aprendices](https://plus.google.com/communities/114859785439
 
 Leídos en algún momento en el pasado:
 
-*   **Growing Object-Oriented Software: Guided by Tests**, <span dir="ltr">Steve Freeman</span>, <span dir="ltr">Nat Pryce.</span>
+*   **Growing Object-Oriented Software: Guided by Tests**, Steve Freeman, Nat Pryce.
 *   **Refactoring to Patterns**, Joshua Kerievsky.
-*   <span id="productTitle" class="a-size-extra-large">**Head First Design Patterns: A Brain-Friendly Guide**,  Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson.</span>
+*   **Head First Design Patterns: A Brain-Friendly Guide**,  Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson.
 *   **Refactoring: Improving the Design of Existing Code**, Martin Fowler.
 *   **Implementation Patterns**, Kent Beck.
 *   **Clean Code**, Robert C. Martin.
