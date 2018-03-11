@@ -8,7 +8,10 @@ status: publish
 categories: []
 tags: []
 ---
-2018 Q1.
+2018 Q1
+*   **Ready Player One**, Ernest Cline.
+*   **99 Bottles of OOP**, Sandy Metz.
+*   **Domain Modeling Made Functional**, Scott Wlaschin.
 *   **To Kill a Mockingbird**, Harper Lee.
 *   **Clean Architecture**, Robert C. Martin.
 
@@ -22,7 +25,6 @@ tags: []
 
 *   **Extreme Programming Explained: Embracing Change**, Kent Beck.
 *   **Nonviolent Communication: A Language of Life**, Marshall Rosenberg.
-
 *   **The Nature of Software Development**, Ron Jeffries.
 
 2017 Q2.
