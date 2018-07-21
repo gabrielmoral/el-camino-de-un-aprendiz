@@ -15,7 +15,14 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        {{ post.excerpt }}
+        <p>
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+          {% if post.language == "en" %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Leer más...</a>
+          {% endif %}
+        </p>
       </li>
     {% endfor %}
   </ul>
