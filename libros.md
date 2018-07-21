@@ -8,6 +8,12 @@ status: publish
 categories: []
 tags: []
 ---
+
+2018 Q2
+*   **The Power**, Naomi Alderman.
+*   **Dependency Injection in .NET second edition**, Steven van Deursen and Mark Seemann.
+*   **Building Evolutionary Architectures: Support Constant Change**,  Neal Ford, Patrick Kua, and Rebecca Parsons.
+
 2018 Q1
 *   **Ready Player One**, Ernest Cline.
 *   **99 Bottles of OOP**, Sandy Metz.
