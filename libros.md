@@ -9,6 +9,11 @@ categories: []
 tags: []
 ---
 
+2018 Q3
+*   **Momo**, Michael Ende.
+*   **Mi dieta cojea**, Aitor Sánchez García.
+*   **Mi dieta ya no cojea**,  Aitor Sánchez García.
+
 2018 Q2
 *   **The Power**, Naomi Alderman.
 *   **Dependency Injection in .NET second edition**, Steven van Deursen and Mark Seemann.
