@@ -17,7 +17,7 @@ La experiencia fue muy buena. Aprendí muchísimo preparando la presentación y 
 Os dejo los enlaces con la presentación y el repositorio con el código de ejemplo.
 
 Presentación.
-https://www.slideshare.net/GabrielMoral/buenas-practicas-desarrollando-software-118447458
+<https://www.slideshare.net/GabrielMoral/buenas-practicas-desarrollando-software-118447458>
 
 Ejemplos de código.
-https://github.com/gabrielmoral/taller-uciencia-buenas-practicas-desarrollo
+<https://github.com/gabrielmoral/taller-uciencia-buenas-practicas-desarrollo>
