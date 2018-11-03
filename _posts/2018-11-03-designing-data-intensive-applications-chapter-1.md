@@ -10,7 +10,7 @@ categories:
 - book
 ---
 
-The current book in the readers club is [**Designing Data-Intensive Applications**](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann and I will try to write a little post with the highlights of every chapter we read. These posts will not replace the read of the book since there will be a lot of things I will not consider so I encourage you to read the book.
+The current book in the readers club is <a href="https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications" target="_blank">**Designing Data-Intensive Applications**</a> by Martin Kleppmann and I will try to write a little post with the highlights of every chapter we read. These posts will not replace the reading of the book since there will be a lot of things I will not consider so I encourage you to read it.
 
 **Chapter 1 - Reliable, scalable and maintainable Applications**
 
@@ -44,7 +44,6 @@ It is basically the idea of making the life easier for the people who is involve
 * Simplicity. Keeping the system easy to understand.
 * Evolvability. Enabling making changes in the future.
 
-
-My college [Fermín](https://twitter.com/mintxelas) created a mind map to connect ideas and concepts of this chapter.
+To finish the post I would like to share a mind map that my college <a href="https://twitter.com/mintxelas" target="_blank">Fermín</a> created to connect ideas and concepts of this chapter.
 
 <img src="{{ "/assets/chapter1.map.jpg" | absolute_url }}" alt="Chapter 1 map" />
