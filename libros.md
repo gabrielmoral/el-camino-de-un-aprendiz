@@ -9,6 +9,11 @@ categories: []
 tags: []
 ---
 
+2018 Q4
+*   **Homo Deus**, Yuval Noah Harari.
+*   **Designing Data-Intensive Applications**, Martin Kleppmann.
+*   **Test-Driven Development by Example**, Kent Beck.
+
 2018 Q3
 *   **Momo**, Michael Ende.
 *   **Mi dieta cojea**, Aitor Sánchez García.
