@@ -45,6 +45,6 @@ It is basically the idea of making the life easier for the people who is involve
 * Evolvability. Enabling making changes in the future.
 
 
-My college [Fermín] (https://twitter.com/mintxelas) created a mind map to connect ideas and concepts of this chapter.
+My college [Fermín](https://twitter.com/mintxelas) created a mind map to connect ideas and concepts of this chapter.
 
 <img src="{{ "/assets/chapter1.map.jpg" | absolute_url }}" alt="Chapter 1 map" />
