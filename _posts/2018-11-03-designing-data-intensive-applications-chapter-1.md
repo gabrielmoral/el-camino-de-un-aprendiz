@@ -8,11 +8,12 @@ status: published
 categories:
 - data-intensive-applications
 - book
+language: en
 ---
 
 The current book in the readers club is <a href="https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications" target="_blank">**Designing Data-Intensive Applications**</a> by Martin Kleppmann and I will try to write a little post with the highlights of every chapter we read. These posts will not replace the reading of the book since there will be a lot of things I will not consider so I encourage you to read it.
 
-**Chapter 1 - Reliable, scalable and maintainable Applications**
+#### Reliable, scalable and maintainable Applications
 
 When the developers think about data systems they become data system designers instead of being just application developers.
 
@@ -47,3 +48,8 @@ It is basically the idea of making the life easier for the people who is involve
 To finish the post I would like to share a mind map that my college <a href="https://twitter.com/mintxelas" target="_blank">Fermín</a> created to connect ideas and concepts of this chapter.
 
 <img src="{{ "/assets/chapter1.map.jpg" | absolute_url }}" alt="Chapter 1 map" />
+
+
+<p style="text-align: right">
+<a href="{% post_url 2018-11-10-designing-data-intensive-applications-chapter-2 %}">Chapter 2. Reliable, scalable and maintainable Applications -></a>
+</p>
