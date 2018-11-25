@@ -32,3 +32,10 @@ Of course, you will need to test which model suits you better for each specific 
 OLTP (Online transaction processing) systems are typically user-oriented, which means they have to deal with a high volume of requests. They are designed to be effective when only touching a small number of records in each query.
 
 On the other side, data warehouse databases are analytic systems prepared to be used by analytics people. They handle a much lower volume of requests but these queries are usually very demanding, scanning millions of records in a short time. 
+
+
+[<- Chapter 2. Reliable, scalable and maintainable Applications]({% post_url 2018-11-10-designing-data-intensive-applications-chapter-2 %})
+
+<p style="text-align: right">
+<a href="{% post_url 2018-11-25-designing-data-intensive-applications-chapter-4 %}">Chapter 4. Encoding and Evolution -></a>
+</p>

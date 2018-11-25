@@ -46,3 +46,6 @@ As the post before, I will share the mind map <a href="https://twitter.com/mintx
 <img src="{{ "/assets/chapter2.map.jpg" | absolute_url }}" alt="Chapter 2 map" />
 
 [<- Chapter 1. Reliable, scalable and maintainable Applications]({% post_url 2018-11-03-designing-data-intensive-applications-chapter-1 %})
+<p style="text-align: right">
+<a href="{% post_url 2018-11-18-designing-data-intensive-applications-chapter-3 %}">Chapter 3. Storage and retrieval -></a>
+</p>
