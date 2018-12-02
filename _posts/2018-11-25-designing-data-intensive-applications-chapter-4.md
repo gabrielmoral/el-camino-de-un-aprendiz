@@ -47,3 +47,7 @@ Some modes of data flow where the encoding is important:
 The first part of the book has settled the fundamentals to explore in details how distributed data works.
 
 [<- Chapter 3. Storage and retrieval]({% post_url 2018-11-18-designing-data-intensive-applications-chapter-3 %})
+
+<p style="text-align: right">
+<a href="{% post_url 2018-12-02-designing-data-intensive-applications-chapter-5 %}">Chapter 5. Replication -></a>
+</p>
