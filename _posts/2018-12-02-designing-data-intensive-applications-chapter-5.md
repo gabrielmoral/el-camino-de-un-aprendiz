@@ -47,3 +47,7 @@ In this configuration, clients send write and read requests to every replica in 
 This chapter contains several concepts like conflict resolution mechanisms or quorums for reading and writing that I decided not to mention in this summary for brevity. So, if you are interested in knowing more about those topics I suggest you read the chapter to fully understand it.
 
 [<- Chapter 4. Storage and retrieval]({% post_url 2018-11-25-designing-data-intensive-applications-chapter-4 %})
+
+<p style="text-align: right">
+<a href="{% post_url 2019-01-19-designing-data-intensive-applications-chapter-6 %}">Chapter 6. Partitioning -></a>
+</p>
