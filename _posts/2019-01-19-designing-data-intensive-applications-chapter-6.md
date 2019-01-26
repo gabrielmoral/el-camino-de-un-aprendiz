@@ -70,3 +70,7 @@ Strategies when rebalancing:
 provided by <a href="https://twitter.com/mintxelas" target="_blank">@mintxelas</a>
 
 [<- Chapter 5. Replication]({% post_url 2018-12-02-designing-data-intensive-applications-chapter-5 %})
+
+<p style="text-align: right">
+<a href="{% post_url 2019-01-26-designing-data-intensive-applications-chapter-7 %}">Chapter 7. Transactions -></a>
+</p>
