@@ -77,7 +77,7 @@ Most of the databases today implement serializable isolation use one of these te
 
 
 
-If you want to know more about transactions and understand how they work behind the scenes, I encourage you to read the full chapter because, for brevity, there are plenty of missed details in the post.
+Since this post only touches the surface of the book chapter. I would encourage you to read the full book chapter to understand better how transactions work behind the scenes. 
 
 
 <img src="{{ "/assets/chapter7.map.jpg" | absolute_url }}" alt="Chapter 7 map" />
