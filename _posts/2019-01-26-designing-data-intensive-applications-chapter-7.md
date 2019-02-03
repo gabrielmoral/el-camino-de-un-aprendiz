@@ -84,3 +84,7 @@ Since this post only touches the surface of the book chapter. I would encourage 
 Provided by <a href="https://twitter.com/mintxelas" target="_blank">@mintxelas</a>
 
 [<- Chapter 6. Partitioning]({% post_url 2019-01-19-designing-data-intensive-applications-chapter-6 %})
+
+<p style="text-align: right">
+<a href="{% post_url 2019-02-03-designing-data-intensive-applications-chapter-8 %}">Chapter 8. The Trouble with Distributed Systems -></a>
+</p>
