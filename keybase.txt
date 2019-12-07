@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gabrielmoral
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://elcaminodeunaprendiz.com
+  * I am gabrielmoral (https://keybase.io/gabrielmoral) on keybase.
+  * I have a public key ASAeBQoUlnQoI2PPvlIrgKWOrzjUiGkqHEVZ74v7BAjnvgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f6b7e4b907ecbc2246cc4d7e86a1805b0283ca8a0fd8a640fe3d2b803e30e320a",
+      "host": "keybase.io",
+      "kid": "01201e050a149674282363cfbe522b80a58eaf38d488692a1c4559ef8bfb0408e7be0a",
+      "uid": "669f131e5af06ca8b12bc6e0d2b39a19",
+      "username": "gabrielmoral"
+    },
+    "merkle_root": {
+      "ctime": 1575717124,
+      "hash": "ecea18cdf48ec9a25e818d4c42f029b4ca1ac9968fdbf65ce6509f6afd78e901c5c9a22f164de3d5799763957ef1d725e682fb1bc813a410a8429fbceeadae49",
+      "hash_meta": "0ad88fac28c3986e0e08872006a02d142d370f69680b37571542e9cccd6de860",
+      "seqno": 12647562
+    },
+    "service": {
+      "entropy": "PgRAck5vE5tHaLXWWEJcfYuA",
+      "hostname": "elcaminodeunaprendiz.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575717195,
+  "expire_in": 504576000,
+  "prev": "45edbd6a3e286ae70c6f9d4a7ce2e69c6fe388ed11408a4c17bc2b9c7f5dc2f0",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHgUKFJZ0KCNjz75SK4Cljq841IhpKhxFWe+L+wQI574Kp3BheWxvYWTESpcCEcQgRe29aj4oaucMb51KfOLmnG/jiO0RQIpMF7wrnH9dwvDEIBNy0FW5O2WeH0TUdT6KppDTq0WiS0+NOyvnNr5hjmu4AgHCo3NpZ8RAoxzehui5s8bUj95tR/92cRNSr9RF6L1iPQRBFqtfrv38La+Qa9dNCGkua/scnHTFH7IpAIWfwMVjStfq4rzhBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIG2dNFeODTISzZ/b4aGnKWZobXzjHOOvHvIIc2DN/gFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gabrielmoral
+
+==================================================================
