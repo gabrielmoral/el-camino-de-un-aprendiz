@@ -14,11 +14,11 @@ language: en
 
 Last week I was able to pass the AWS Solution Architect Associate exam certification and I would like to share the process I followed to prepare the exam.
 
-I decided to prepare the exam when my company [Ding](http://www.ding.com) asked me if I would like to attend a course in Amazon offices about Architecting on AWS. Before attending the course I had no idea about what cloud services AWS offered, I knew only about EC2 and Lambda so yes I learnt a lot during the 5 days. So thanks to Ding for the opportunity. 
+I decided to prepare the exam when my company [Ding](http://www.ding.com) asked me if I would like to attend a course in Amazon offices about Architecting on AWS. Before attending the course I had no idea about what cloud services AWS offered, I knew only about EC2 and Lambda so yes I learnt a lot during the 5 days. Thanks to Ding for the opportunity. 
 
 As Sandro Mancuso mentions in his book, we the developers should own the learning path for ourselves. For that reason, I committed to knowing more about what AWS provides and how it can help developers to build products.
 
-I started for signing up in a learning platform called [A Cloud Guru](https://acloud.guru/) where it provides several courses to prepare different cloud vendor certifications. I liked the way the course is structured and the instructor. The best part is they encourage you to practice a lot with the AWS console and some of the lessons are purely practical which is very good. They also have an exam simulator where you can practice and prepare for the exam.
+I started for signing up in a learning platform called [A Cloud Guru](https://acloud.guru/) where it provides several courses to prepare different cloud vendor certifications. I liked the way the course is structured. The best part is they encourage you to practice a lot with the AWS console and some of the lessons are purely practical which is very good. They also have an exam simulator where you can practice and prepare for the exam.
 
 After finishing the course I continued reading a few AWS whitepapers:
 - [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
