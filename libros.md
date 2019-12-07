@@ -9,6 +9,24 @@ categories: []
 tags: []
 ---
 
+
+2019 Q4
+*   **La trampa de la diversidad**, Daniel Bernabé.
+*   **Ten peor coche que tu vecino**, Luis Pita.
+*   **Patterns Principles and Practices of Domain Driven Design**, Scott Millett.
+
+2019 Q3
+*   **The Essential Gandhi: An Anthology of His Writings on His Life, Work, and Ideas**, Mahatma Gandhi.
+*   **Shoe Dog: A Memoir by the Creator of NIKE**, Phil Knight.
+*   **Racing Through the Dark**,  David Millar.
+
+2019 Q2
+*   **Un mundo feliz**, Aldous Huxley.
+*   **Essentialism: The Disciplined Pursuit of Less**, Greg McKeown.
+
+2019 Q1
+*   **Developer Hegemony: The Future of Labor**, Erik Dietrich.
+
 2018 Q4
 *   **Homo Deus**, Yuval Noah Harari.
 *   **Designing Data-Intensive Applications**, Martin Kleppmann.
