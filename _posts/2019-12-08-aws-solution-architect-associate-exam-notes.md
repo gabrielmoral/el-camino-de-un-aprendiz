@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AWS Solution Architect Associate Exam Notes'
-date: 2019-12-08 09:00:00.000000000 +01:00
+date: 2019-12-08 16:00:00.000000000 +01:00
 type: post
 published: true 
 status: published
