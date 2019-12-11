@@ -1,0 +1,14 @@
+.quote {
+  position: absolute;
+  top:230px;
+  margin-left: 15px;
+  color:blanchedalmond;
+  font-size: large;
+  font-style: italic;
+}
+
+@media (max-width: 1026px) {
+  #quote {
+      display: none;
+  }
+}
