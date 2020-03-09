@@ -9,6 +9,12 @@ categories: []
 tags: []
 ---
 
+2020
+
+*   **Astral Chain**, Nintendo Switch, PlatinumGames.
+*   **ICO**, PS4, Team Ico.
+*   **Horizon Zero Down**, PS4, Guerrilla Games.
+
 2019
 
 *   **Dragon Ball FighterZ**, Nintendo Switch, Arc System Works.

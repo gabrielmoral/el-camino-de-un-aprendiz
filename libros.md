@@ -9,6 +9,13 @@ categories: []
 tags: []
 ---
 
+2020 Q1
+*   **Microservices Patterns**, Chris Richardson.
+*   **El enemigo conoce al sistema**, Marta Peirano.
+*   **The Racer: Life on the Road as a Pro Cyclist**, David Millar.
+*   **Thomas Dekker. Mi lucha**, Thomas Dekker.
+*   **After the Wall**, Jana Hensel.
+*   **Code Simplicity: The fundamentals of Software**, Max Kanat-Alexander.
 
 2019 Q4
 *   **La trampa de la diversidad**, Daniel Bernabé.
