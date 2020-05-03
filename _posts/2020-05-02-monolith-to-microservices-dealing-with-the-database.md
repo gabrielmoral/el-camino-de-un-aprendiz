@@ -9,7 +9,7 @@ categories:
 language: en
 ---
 
-One of the hardest tasks when moving into a monolithic to a microservice architecture is to separate the data own by each microservice. Usually, the data is placed in one database schema and the goal when extracting microservices will be partition it accordingly without causing major issues. Sam Newman describes a few patterns in his book [Monolith to
+One of the hardest tasks when moving into a monolithic to a microservice architecture is to separate the data owned by each microservice. Usually, the data is placed in one database schema and the goal when extracting microservices will be partition it accordingly without causing major issues. Sam Newman describes a few patterns in his book [Monolith to
 Microservices Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/book/show/44144499-monolith-to-microservices) that would help with the task and I would like to give them briefly. 
 
 ### **Shared source of truth**
@@ -48,7 +48,7 @@ Each bounded context has its database schema. This pattern is useful when the ap
 This pattern might be useful if the extracted microservice needs data owned by the monolith. Instead of accessing the data directly, the monolith exposes an API that is consumed by the new microservice. It also might help to discover other candidates to be extracted.
 
 #### **Multischema storage**
-This pattern fits in the scenario where the data own by the microservice still lives under the monolith. The pattern can be applied when there is a new business capability for the microservice that need to add data into the schema. The new data should be added in the microservice schema instead of adding it into the monolith. This could open the door to move the entire data set out of the monolith.
+This pattern fits in the scenario where the data owned by the microservice still lives under the monolith. The pattern can be applied when there is a new business capability for the microservice that need to add data into the schema. The new data should be added in the microservice schema instead of adding it into the monolith. This could open the door to move the entire data set out of the monolith.
 
 ### **Where to put shared static data?**
 This is a recurrent problem that can be solved with several approaches, let's take a look.
