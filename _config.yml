@@ -18,7 +18,7 @@ quote: Learn as if you were to live forever
 email: gabrielmoralortiz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://elcaminodeunaprendiz.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://elcaminodeunaprendiz.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gabrielmoral
 github_username:  gabrielmoral
 

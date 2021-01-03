@@ -1,5 +1,6 @@
-<http://elcaminodeunaprendiz.com>
+<https://elcaminodeunaprendiz.com>
 
 Execute it locally:
-gem install jekyll bundler
-bundle exec jekyll serve
+
+- gem install jekyll bundler
+- bundle exec jekyll serve
