@@ -18,9 +18,9 @@ layout: default
         <p>
           {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
           {% if post.language == "en" %}
-            <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
+            <a href="{{ post.url }}">Read more...</a>
           {% else %}
-            <a href="{{ site.baseurl }}{{ post.url }}">Leer más...</a>
+            <a href="{{ post.url }}">Leer más...</a>
           {% endif %}
         </p>
       </li>
