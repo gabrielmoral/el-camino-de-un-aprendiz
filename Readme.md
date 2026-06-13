@@ -1,4 +1,4 @@
-<https://elcaminodeunaprendiz.com>
+<https://blog.gabrielmoral.me>
 
 Execute it locally:
 

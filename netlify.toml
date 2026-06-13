@@ -1,0 +1,11 @@
+[[redirects]]
+from = "https://elcaminodeunaprendiz.com/*"
+to = "https://blog.gabrielmoral.me/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://www.elcaminodeunaprendiz.com/*"
+to = "https://blog.gabrielmoral.me/:splat"
+status = 301
+force = true
